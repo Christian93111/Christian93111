@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">Enjoying Programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christian93111&label=Profile%20views&color=0e75b6&style=flat" alt="christian93111" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian93111" alt="christian93111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian93111&theme=onestar" alt="christian93111" /></a> </p>
 
 - 🔗 Site [https://about-me-cdr.pages.dev](https://about-me-cdr.pages.dev)
 
