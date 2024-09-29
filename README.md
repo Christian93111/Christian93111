@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">Enjoying Programming</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true-frame=true" alt="christian93111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true-bg=true" alt="christian93111" /></a> </p>
 
 - 🌐 **Still Learning And Exploring in a World of Technology**
 
