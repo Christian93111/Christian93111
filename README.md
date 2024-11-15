@@ -3,8 +3,7 @@
 
 - 🌐 **Still Learning And Exploring in a World of Technology**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,nodejs,git&perline=3)](https://skillicons.dev)
 
