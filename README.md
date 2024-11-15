@@ -5,7 +5,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,nodejs,git&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,nodejs,git" />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian93111&theme=transparent&show_icons=true&locale=en&layout=compact" alt="christian93111" /></p>
 
