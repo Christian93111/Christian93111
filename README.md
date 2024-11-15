@@ -2,7 +2,7 @@
 
 <h3 align="center">Enjoying Programming</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian93111-ma&theme=onestar&no-bg=true" alt="christian93111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian93111-ma&theme=onestar-no-bg=true" alt="christian93111" /></a> </p>
 
 - 🌐 **Still Learning And Exploring in a World of Technology**
 
