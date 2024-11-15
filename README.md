@@ -1,6 +1,5 @@
 [![MasterHead](https://i.ibb.co/B4Bnych/banner.png)](https://github.com/Christian93111)
 
-<h1 align="center">Profile</h1>
 <h3 align="center">Enjoying Programming</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian93111&no-bg=true" alt="christian93111" /></a> </p>
