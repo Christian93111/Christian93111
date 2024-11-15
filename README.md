@@ -1,11 +1,6 @@
 [![MasterHead](https://i.ibb.co/B4Bnych/banner.png)](https://github.com/Christian93111)
 
 
-
-<h3 align="center">Enjoying Programming</h3>
-
-
-
 - 🌐 **Still Learning And Exploring in a World of Technology**
 
 <h3 align="left">Languages and Tools:</h3>
