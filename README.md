@@ -1,12 +1,11 @@
 [![MasterHead](https://i.ibb.co/B4Bnych/banner.png)](https://github.com/Christian93111)
+
 <br>
 <br>
 
 - 🌐 **Still Learning And Exploring in a World of Technology**
-
 <br>
 <br>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
