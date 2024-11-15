@@ -7,8 +7,6 @@
 
 - 🌐 **Still Learning And Exploring in a World of Technology**
 
-- 🔗 **Site:** [about-me-cdr.pages.dev](https://about-me-cdr.pages.dev)
-
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://instagram.com/cdr9311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cdr9311" height="30" width="40" /></a> <a href="https://fb.com/cdr9311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cdr9311" height="30" width="40" /></a>
