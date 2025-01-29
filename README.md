@@ -6,13 +6,13 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+ <!-- <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,nodejs,git" />
   </a>
-</p>
+</p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian93111&theme=transparent&show_icons=true&locale=en&layout=compact" alt="christian93111" /</p>
 
