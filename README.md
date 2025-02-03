@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">🌐 Still Learning And Exploring in a World of Technology</p>
+<!-- <p align="center">🌐 Still Learning And Exploring in a World of Technology</p> -->
 
 <br>
 
