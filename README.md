@@ -1,4 +1,4 @@
-<p align="center">[![MasterHead](https://i.ibb.co/B4Bnych/banner.png)](https://github.com/Christian93111) </p>
+<span align="center"[![MasterHead](https://i.ibb.co/B4Bnych/banner.png)](https://github.com/Christian93111) </span>
 
 <br>
 
