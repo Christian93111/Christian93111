@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/B4Bnych/banner.png)](https://github.com/Christian93111)
+<p align="center">[![MasterHead](https://i.ibb.co/B4Bnych/banner.png)](https://github.com/Christian93111) </p>
 
 <br>
 
@@ -14,9 +14,9 @@
   </a>
 </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian93111&theme=transparent&show_icons=true&locale=en&layout=compact" alt="christian93111" /</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian93111&theme=transparent&show_icons=true&locale=en&layout=compact" alt="christian93111"/</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christian93111&theme=transparent&show_icons=true&locale=en" alt="christian93111" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christian93111&theme=transparent&show_icons=true&locale=en" alt="christian93111"/> </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=christian93111&theme=transparent)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=christian93111&theme=transparent)](https://git.io/streak-stats) </p>
