@@ -14,4 +14,4 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=christian93111&theme=transparent&show_icons=true&locale=en" alt="christian93111"/>
 
-<img align="center" src="https://streak-stats.demolab.com/?user=Christian93111&theme=transparent&https://git.io/streak-stats"/>
+<!-- <img align="center" src="https://streak-stats.demolab.com/?user=Christian93111&theme=transparent&https://git.io/streak-stats"/> -->
