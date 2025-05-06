@@ -1,6 +1,6 @@
-<img align="center" src="https://i.postimg.cc/0yd0KFmc/github-header-image-2.png&https://github.com/Christian93111"/>
+<!-- <img align="center" src="https://i.postimg.cc/0yd0KFmc/github-header-image-2.png&https://github.com/Christian93111"/>
 
-<br>
+<br> -->
 
 <!-- <p align="center">🌐 Still Learning And Exploring in a World of Technology</p> -->
 
