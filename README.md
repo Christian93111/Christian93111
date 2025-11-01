@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian93111&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 👩‍💻 Cyber Security:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5493925" style='border:none;'></iframe>
+![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5493925)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
