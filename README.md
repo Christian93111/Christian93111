@@ -1,40 +1,108 @@
-<!-- <img align="center" src="https://i.postimg.cc/0yd0KFmc/github-header-image-2.png&https://github.com/Christian93111"/>
+<div align="center">
+  
+# 👋 Hey there, I'm Christian
 
-<br> -->
+### 🚀 Web Developer | 🛡️ Cybersecurity Enthusiast | 💡 Beginner
 
-<!-- <p align="center">🌐 Still Learning And Exploring in a World of Technology</p> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+digital+workspace!;Always+learning%2C+always+growing" alt="Typing SVG" />
 
- <!-- <h3 align="center">Languages and Tools:</h3>
+</div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,nodejs,git" />
-  </a>
-</p> -->
+---
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian93111&theme=transparent&show_icons=true&locale=en&layout=compact" alt="christian93111"/> -->
+## 🌟 About Me
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=christian93111&theme=transparent&show_icons=true&locale=en" alt="christian93111"/> -->
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Christian"
+        self.role = "Cyber Security Green Hat Hacker"
+        self.interests = ["Web Development", "Cybersecurity", "CTF Challenges"]
+        self.fun_fact = "I debug in my sleep 😴"
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together.")
 
-<!-- <img align="center" src="https://streak-stats.demolab.com/?user=Christian93111&theme=transparent&https://git.io/streak-stats"/> -->
+me = Developer()
+me.say_hi()
+```
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=Christian93111&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Christian93111&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian93111&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Tech Arsenal
 
-# 👩‍💻 Cyber Security:
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hack4gov003.png)](https://tryhackme.com/p/hack4gov003)
-[![PicoCTF](https://miro.medium.com/v2/1*0FYnt8IngPu-OTy5CGjFZg.png)](https://play.picoctf.org/users/FanAndreas)
-[![CTFlearn](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ul182VTK_iCh-0UOBC824g.png)](https://ctflearn.com/user/Fan2K)
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎨 Frameworks & Tools
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Christian93111&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+### 🔧 Terminal & Scripts
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-<!-- [![](https://visitcount.itsvg.in/api?id=Christian93111&icon=0&color=0)](https://visitcount.itsvg.in) -->
+</div>
+
+---
+
+<div align="center">
+
+## 🛡️ Cybersecurity Journey
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://tryhackme.com/p/hack4gov003" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/hack4gov003.png" alt="TryHackMe Badge" width="200"/>
+        <br/>
+        <strong>TryHackMe</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://play.picoctf.org/users/FanAndreas" target="_blank">
+        <img src="https://miro.medium.com/v2/1*0FYnt8IngPu-OTy5CGjFZg.png" alt="PicoCTF" width="200"/>
+        <br/>
+        <strong>PicoCTF</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://ctflearn.com/user/Fan2K" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ul182VTK_iCh-0UOBC824g.png" alt="CTFlearn" width="200"/>
+        <br/>
+        <strong>CTFlearn</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+*Continuously sharpening my security skills through CTF challenges and hands-on practice*
+
+</div>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Christian93111&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F4&fire=00F7F4&currStreakLabel=00F7F4" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+## 💭 Daily Inspiration
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+</div>
