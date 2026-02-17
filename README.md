@@ -57,32 +57,32 @@ me.say_hi()
 
 ## 🛡️ Cybersecurity Journey
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://tryhackme.com/p/hack4gov003" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/hack4gov003.png" alt="TryHackMe Badge" width="200"/>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/hack4gov003.png" width="160" />
         <br/>
         <strong>TryHackMe</strong>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://play.picoctf.org/users/FanAndreas" target="_blank">
-        <img src="https://miro.medium.com/v2/1*0FYnt8IngPu-OTy5CGjFZg.png" alt="PicoCTF" width="200"/>
+        <img src="https://miro.medium.com/v2/1*0FYnt8IngPu-OTy5CGjFZg.png" width="160" />
         <br/>
         <strong>PicoCTF</strong>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://ctflearn.com/user/Fan2K" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ul182VTK_iCh-0UOBC824g.png" alt="CTFlearn" width="200"/>
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ul182VTK_iCh-0UOBC824g.png" width="160" />
         <br/>
         <strong>CTFlearn</strong>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://www.root-me.org/Fan2K?lang=en" target="_blank">
-        <img src="https://nerdkakashi.github.io/assets/images/Rootme-Graphql-introspection/Rootme.webp" alt="RootMe" width="200"/>
+        <img src="https://nerdkakashi.github.io/assets/images/Rootme-Graphql-introspection/Rootme.webp" width="160" />
         <br/>
         <strong>Root Me</strong>
       </a>
