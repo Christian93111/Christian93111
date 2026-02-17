@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hey there, I'm Christian
+# Hey there, I'm Christian
 
-### 🚀 Web Developer | 🛡️ Cybersecurity Enthusiast | 💡 Beginner
+### Web Developer | Cybersecurity Enthusiast | Beginner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+digital+workspace!;Always+learning%2C+always+growing" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 ```python
 class Developer:
@@ -29,7 +29,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,12 +40,12 @@ me.say_hi()
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### 🎨 Frameworks & Tools
+### Frameworks & Tools
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Terminal & Scripts
+### Terminal & Scripts
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -55,7 +55,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🛡️ Cybersecurity Journey
+## Cybersecurity Journey
 
 <table width="100%">
   <tr>
@@ -96,7 +96,7 @@ me.say_hi()
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Christian93111&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F4&fire=00F7F4&currStreakLabel=00F7F4" alt="GitHub Streak"/>
 
@@ -104,7 +104,7 @@ me.say_hi()
 
 <div align="center">
 
-## 💭 Daily Inspiration
+## Daily Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
