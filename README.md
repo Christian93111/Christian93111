@@ -18,7 +18,7 @@ class Developer:
         self.name = "Christian"
         self.role = "Cyber Security Green Hat Hacker"
         self.interests = ["Web Development", "Cybersecurity", "CTF Challenges"]
-        self.fun_fact = "I debug in my sleep 😴"
+        self.fun_fact = "I debug in my sleep"
     
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together.")
