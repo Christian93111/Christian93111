@@ -80,6 +80,13 @@ me.say_hi()
         <strong>CTFlearn</strong>
       </a>
     </td>
+    <td align="center" width="33%">
+      <a href="https://www.root-me.org/Fan2K?lang=en" target="_blank">
+        <img src="https://nerdkakashi.github.io/assets/images/Rootme-Graphql-introspection/Rootme.webp" alt="RootMe" width="200"/>
+        <br/>
+        <strong>Root Me</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
