@@ -98,7 +98,7 @@ me.say_hi()
 
 ## GitHub Analytics
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Christian93111&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F4&fire=00F7F4&currStreakLabel=00F7F4" alt="GitHub Streak"/>
+<img src="https://nirzak-streak-stats.vercel.app?user=Christian93111&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
