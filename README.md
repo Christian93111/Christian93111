@@ -96,19 +96,19 @@ me.say_hi()
 
 <div align="center">
 
-## GitHub Analytics
+<!-- ## GitHub Analytics
 
 <img src="https://nirzak-streak-stats.vercel.app?user=Christian93111&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
+-->
+
 <div align="center">
 
-<!-- ## Daily Inspiration
+  ## Daily Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
--->
 
 </div>
 
