@@ -104,9 +104,11 @@ me.say_hi()
 
 <div align="center">
 
-## Daily Inspiration
+<!-- ## Daily Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+-->
 
 </div>
 
