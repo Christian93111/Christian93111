@@ -17,7 +17,7 @@ class Developer:
     def __init__(self):
         self.name = "Christian"
         self.role = "Cyber Security Green Hat Hacker"
-        self.interests = ["Web Development", "Cybersecurity", "CTF Challenges"]
+        self.interests = ["Cybersecurity", "CTF Challenges"]
         self.fun_fact = "I debug in my sleep"
     
     def say_hi(self):
