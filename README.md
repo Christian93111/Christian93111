@@ -16,15 +16,16 @@
 class Developer:
     def __init__(self):
         self.name = "Christian"
-        self.role = "Cyber Security Green Hat Hacker"
-        self.interests = ["Cybersecurity", "CTF Challenges"]
-        self.fun_fact = "I debug in my sleep"
+        self.focus = "Cyber Security"
+        self.status = "Green Hat"
+        self.interests = ["Cybersecurity", "CTF Challenges, Other stuff"]
+        self.fun_fact = "I debug in my sleep, and Hack for Fun : )"
     
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
+    def hi(self):
+        print("Thanks for stopping by.")
 
 me = Developer()
-me.say_hi()
+me.hi()
 ```
 
 <!-- <div align="center">
