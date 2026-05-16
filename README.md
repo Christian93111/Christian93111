@@ -27,7 +27,7 @@ me = Developer()
 me.say_hi()
 ```
 
-<div align="center">
+<!-- <div align="center">
 
 ## Tech Arsenal
 
@@ -49,7 +49,7 @@ me.say_hi()
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-</div>
+</div> -->
 
 ---
 
