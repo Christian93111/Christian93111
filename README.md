@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey there, I'm Christian
+# Hey there,
 
 ### Cybersecurity Enthusiast | Beginner
 
